@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.streamlit/
+users.db
+.DS_Store
+*.pkl
